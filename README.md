@@ -1,2 +1,2 @@
 # Javascript-solutions-LEETCODE
-Leetcode solutions by me
+Leetcode solutions in javascript by me
